@@ -26,7 +26,7 @@ var MillenniumFalcon = (function (_super) {
             _super.prototype.jumpIntoHyperspace.call(this);
         }
         else {
-            console.log('Failed to jump into hyperspace');
+            console.log('Failed lalalalala jump into hyperspace');
         }
     };
     return MillenniumFalcon;
